@@ -1,3 +1,6 @@
-.venv
-.qodo
-.vscode
+.venv/
+.qodo/
+.vscode/
+
+# Ignorar archivos con extension
+*.csv
