@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Datos con Pandas
+# Actividad 4: Manejo de Datos con Pandas
 
 Este repositorio contiene un proyecto de análisis de datos realizado con Python, Pandas y Jupyter Notebook. El objetivo es demostrar diversas técnicas de manipulación y análisis de un conjunto de datos, desde la creación de estructuras de datos hasta la exportación de resultados.
 
